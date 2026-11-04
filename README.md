@@ -1,4 +1,10 @@
-# Jingshen_Zhang
+# Jingshen_Zhang（张景深）
 
-- 🌱 Alignment, Interpretability
-- 📫 Contact: jason_zhang@tju.edu.cn
+## About Me
+I am a Master's student majoring in Cyberspace Security @ Tianjin University (TJU), advised by Prof. Bo Wang. Before that, I obtained my B.S. in Software Engineering @ Guangdong University of Foreign Studies (GDUFS), under the supervision of Prof. Xinying Qiu. Currently, I am visiting in iNLP Lab @ Singapore University of Technology and Design (SUTD), supervised by Prof. Wenxuan Zhang. I also have the pleasure of working with Shaoyang Xu and Yanlin Fu.
+
+My research focuses on natural language processing, large language models, and trustworthy AI, with the goal of making AI alignment with both human values and real-world environments measurable, interpretable, and externalizable.
+
+- Measurable — "What gets measured gets improved."
+- Interpretable — "Understanding is the first step toward improvement." 
+- Externalizable — "Actions speak louder than words."
