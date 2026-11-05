@@ -5,9 +5,9 @@ I am a Master's student majoring in Cyberspace Security @ Tianjin University (TJ
 
 My research focuses on natural language processing, large language models, and trustworthy AI, with the goal of making AI alignment with both human values and real-world environments measurable, interpretable, and externalizable.
 
-- Measurable — "What gets measured gets improved."
-- Interpretable — "Understanding is the first step toward improvement." 
-- Externalizable — "Actions speak louder than words."
+- Measurable — _"What gets measured gets improved."_
+- Interpretable — _"Understanding is the first step toward improvement."_
+- Externalizable — _"Actions speak louder than words."_
 
 🏠 Homepage: https://jasonzhang0702.github.io
 
